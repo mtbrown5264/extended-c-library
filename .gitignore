@@ -1,0 +1,4 @@
+# ignore Eclipse project and settings files
+.cproject
+.project
+.settings/*
